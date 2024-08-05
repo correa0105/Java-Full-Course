@@ -10,14 +10,18 @@ public class Account {
         this.cardholderName = cardholderName;
     }
 
-    public Account(int accountNumber, String cardholderName, double accountBalance) {
+    public Account(int accountNumber, String cardholderName, double initialDeposit) {
         this.accountNumber = accountNumber;
         this.cardholderName = cardholderName;
-        this.accountBalance = accountBalance;
+        deposit(initialDeposit);
     }
 
     public int getAccountNumber() {
         return accountNumber;
+    }
+
+    public double getAccountBalance() {
+        return accountBalance;
     }
 
     public String getCardholderName() {
@@ -28,11 +32,15 @@ public class Account {
         this.cardholderName = cardholderName;
     }
 
-    public void deposit(double depositoAmount) {
-        this.accountBalance += depositoAmount;
+    public void deposit(double depositAmount) {
+        this.accountBalance += depositAmount;
     }
 
     public void withdraw(double withdrawAmount) {
         this.accountBalance -= withdrawAmount;
+    }
+
+    public String toString() {
+        return "Conta " + getAccountNumber() + ", Titular: " + getCardholderName() + ", Saldo: " + String.format("%.2f", getAccountBalance());
     }
 }
