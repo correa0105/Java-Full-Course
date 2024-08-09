@@ -1,4 +1,4 @@
-import entities.Departament;
+import entities.Department;
 import entities.Contract;
 import entities.Worker;
 import enums.WorkerLevel;
@@ -28,7 +28,7 @@ public class Main {
         System.out.print("Salario Base: ");
         double baseSalary = sc.nextDouble();
 
-        Worker worker = new Worker(new Departament(departamentName), workerName, baseSalary, WorkerLevel.valueOf(workerLevel));
+        Worker worker = new Worker(new Department(departamentName), workerName, baseSalary, WorkerLevel.valueOf(workerLevel));
 
         System.out.print("Quantos contratos tem este trabalhador: ");
         int n = sc.nextInt();
