@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EnumeracaoComposicao.iml" filepath="$PROJECT_DIR$/EnumeracaoComposicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeracao.iml" filepath="$PROJECT_DIR$/Enumeracao.iml" />
     </modules>
   </component>
 </project>
