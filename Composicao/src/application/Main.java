@@ -1,3 +1,5 @@
+package application;
+
 import entities.Department;
 import entities.Contract;
 import entities.Worker;
