@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DollarConverter/DollarConverter.iml" filepath="$PROJECT_DIR$/DollarConverter/DollarConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeList/EmployeeList.iml" filepath="$PROJECT_DIR$/EmployeeList/EmployeeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaRepetitiva/EstruturaRepetitiva.iml" filepath="$PROJECT_DIR$/EstruturaRepetitiva/EstruturaRepetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioBasicoSintaxe/ExercicioBasicoSintaxe.iml" filepath="$PROJECT_DIR$/ExercicioBasicoSintaxe/ExercicioBasicoSintaxe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrizContaOcorrencia/MatrizContaOcorrencia.iml" filepath="$PROJECT_DIR$/MatrizContaOcorrencia/MatrizContaOcorrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pensionato/Pensionato.iml" filepath="$PROJECT_DIR$/Pensionato/Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetangleCalculator/RetangleCalculator.iml" filepath="$PROJECT_DIR$/RetangleCalculator/RetangleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolAvaluation/SchoolAvaluation.iml" filepath="$PROJECT_DIR$/SchoolAvaluation/SchoolAvaluation.iml" />
+    </modules>
+  </component>
+</project>
