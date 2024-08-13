@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29c40e78-104b-4f93-9a76-e0bbadd3ece5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/CalculoData.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoData/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/DataGlobalParaLocal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataGlobalParaLocal/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataHora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/DataParaTexto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataParaTexto/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Bank/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/DollarConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/DollarConverter/src/entities/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/Employee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Employee/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/EmployeeList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EmployeeList/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/EstruturaRepetitiva.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/EstruturaRepetitiva/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/ExercicioBasicoSintaxe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExercicioBasicoSintaxe/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/ExerciciosEstruturaCondicional/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/MatrizContaOcorrencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/MatrizContaOcorrencia/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/Order.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Order/src/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/Pensionato.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Pensionato/src/entities/Rent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/RetangleCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/RetangleCalculator/src/entities/Retangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/SchoolAvaluation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/SchoolAvaluation/src/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GlobalParaLocal/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kOVINhHaOLBI86ZkWNHBmwdhNV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lucas/3. Cursos/Java (Udemy) - Em Andamento",
+    "onboarding.tips.debug.path": "C:/Lucas/3. Cursos/Java (Udemy) - Em Andamento/DataHora/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c40e78-104b-4f93-9a76-e0bbadd3ece5" name="Changes" comment="" />
+      <created>1723154530483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723154530483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
