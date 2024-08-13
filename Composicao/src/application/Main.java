@@ -38,7 +38,7 @@ public class Main {
         for (int i = 0; i<n; i++) {
             System.out.println("Preencha o Contrato #" + (i+1) + ":");
 
-            System.out.print("Data (DD/MM/YYYY): ");
+            System.out.print("Data (DD/MM/AAAA): ");
             LocalDate contractDate = LocalDate.parse(sc.next(), dateFormatComplete);
 
             System.out.print("Valor por Hora: ");
